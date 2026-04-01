@@ -1,16 +1,16 @@
-# English Janala 🪟 <img width="35px" src="./assets/logo.png" />
+# English Janala  <img width="35px" src="./assets/logo.png" />
 
 **English Janala** is an interactive vocabulary learning platform built for students to master English words with correct pronunciation, meanings, and context.
 
 ---
 
-## 🚀 Links
+##  Links
 - **Live Demo:** [View English Janala](https://amimahedihasan.github.io/english-janala-vocabulary-app/)
 - **GitHub Repository:** [Project Source Code](https://github.com/amimahedihasan/english-janala-vocabulary-app.git)
 
 ---
 
-## ⚡ Features
+##  Features
 - **Dynamic Levels:** Learn words through structured lessons fetched from API.
 - **Speech Synthesis:** Hear correct English pronunciation with one click using Web Speech API.
 - **Real-time Search:** Find any word instantly from the vocabulary database.
@@ -19,7 +19,7 @@
 
 ---
 
-## ⚡ API Documentation
+##  API Documentation
 
 | Purpose | Method | Endpoint URL |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Technology Used
+##  Technology Used
 - **HTML5** & **Tailwind CSS**
 - **DaisyUI v5** (for modern UI components)
 - **Vanilla JavaScript (ES6+)**
@@ -39,7 +39,7 @@
 
 ---
 
-## 👨‍💻 Project Roadmap
+##  Project Roadmap
 - [x] Responsive Hero Section & Login Form.
 - [x] Dynamic Lesson loading from API.
 - [x] Modal implementation for Word Details.
@@ -49,10 +49,10 @@
 
 ---
 
-## 🔧 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/amimahedihasan/english-janala-vocabulary-app.git](https://github.com/amimahedihasan/english-janala-vocabulary-app.git)
-   
+   git clone [https://github.com/amimahedihasan/english-janala-vocabulary-app.git]
+
 **Developed with ❤️ by Md. Mahedi Hasan**
